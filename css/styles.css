@@ -1,4 +1,8 @@
-
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
   
 .contenedor-slider{
     top: 0px;
@@ -12,13 +16,14 @@
 .contenedor{
 	
 	
-	position: relative;
+	position: fixed;
 	width: 85%;
 	height: auto;;
 	margin: -280px auto;
     right: -15%;
+	top: 0px;
 	
-
+    
 }  
 
 input{
