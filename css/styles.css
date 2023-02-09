@@ -106,27 +106,33 @@ input{
   flex: 1 1 auto;
 }
 .logo_nav {
-  width: 13vw;
-  padding: 40px;
-  margin: 20px;
+  width: 10vw;
+  padding: 10px;
+  margin: 10px;
 }
 
 .contenedor_nav {
   display: flex;
   flex-direction: row;
-  border: 1px solid red;
+  height: 15vh;
+  align-items: baseline;
 }
 
 .imglogo_nav {
-  width: 10rem;
+  width: 12rem;
 }
 
 .botones_nav {
   padding: 20px;
-  margin: 40px;
-  width: 70rem;
-  display: flex;
-  justify-content: flex-end;
+    padding-bottom: 10px;
+    padding-top: 3px;
+    margin: 20px;
+    margin-bottom: 10px;
+    width: 65rem;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 2px;
 }
 
 body {
