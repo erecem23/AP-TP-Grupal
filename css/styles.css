@@ -132,7 +132,7 @@ input{
     display: flex;
     justify-content: flex-end;
     position: relative;
-    top: 2px;
+    top:2px;
 }
 
 body {
