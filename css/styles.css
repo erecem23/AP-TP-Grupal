@@ -238,3 +238,78 @@ img {
     margin-top: 7rem;
   }
 }
+
+.card-title {
+  text-align: justify;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.card-text {
+  text-align: justify;
+  font-size: 1.rem;
+
+}
+
+.card-footer {
+  text-align: start;
+}
+
+.card {
+  padding: 0 !important;
+  margin: 0 0.5rem;
+}
+
+.card-footer {
+  background-color: none !important;
+  font-size: 81.25% !important;
+  padding: 0 !important;
+}
+
+.span {
+  text-decoration: none;
+  text-transform: uppercase;
+  min-height: 22px;
+  line-height: 1.6;
+  color: #38485c !important;
+  background-color: #e6f2f9 !important;
+  box-shadow: 0 0 0 1px #007bc7;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .5rem;
+  padding: 0.2rem;
+  font-size: .8rem;
+  position: relative;
+  right: 6.4rem;
+}
+
+.span.parque {
+  right: 4.6rem;
+}
+
+.title-noticia {
+  font-size: 1.75rem;
+  margin-bottom: 1.5rem !important;
+  margin-top: 1.5rem !important;
+  text-align: start;
+}
+
+a {
+  text-align: left;
+  margin-top: 1.2rem !important;
+}
+
+li {
+  padding: 15px;
+}
+
+.footer {
+  background-color: #38485c;
+  color: aliceblue;
+
+}
+
+.BAciudad {
+  margin-left: 15px;
+}
