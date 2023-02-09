@@ -227,7 +227,9 @@ img {
     font-size: 1.25rem;
     line-height: 1.4;
   }
-
+.publiciddad_banner{
+  height: 510px;
+}
   .featurette-heading {
     font-size: 50px;
   }
